@@ -1,0 +1,13 @@
+.btn-spacing {
+    margin-bottom: 10px; /* Задайте нужное вам значение отступа */
+}
+
+.btn-width {
+    width: 500px; /* Задайте нужную вам ширину кнопок */
+}
+
+.button-container {
+    display: flex;
+    justify-content: center; /* Центрирование по горизонтали */
+    align-items: center; /* Центрирование по вертикали */
+}
